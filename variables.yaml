@@ -1,0 +1,10 @@
+MONGODB_HOST: mongodb.mydevops3.online # submit your host
+REDIS_HOST: redis.mydevops3.online
+MYSQL_HOST: mysql.mydevops3.online
+RABBITMQ_HOST: rabbitmq.mydevops3.online
+CATALOGUE_HOST: catalogue.mydevops3.online
+USER_HOST: user.mydevops3.online
+CART_HOST: cart.mydevops3.online
+SHIPPING_HOST: shipping.mydevops3.online
+PAYMENT_HOST: payment.mydevops3.online
+DISPATCH_HOST: dispatch.mydevops3.online
